@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">\@username</string>
+    <string name="what_s_happening">What\'s happening?</string>
+</resources>
