@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas7</string>
+    <string name="name">Name</string>
+    <string name="nim">NIM</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="selamat_datang">HALOOOO </string>
+    <string name="setting">SETTING</string>
+    <string name="logout">LOGOUT</string>
+    <string name="H071221010">H071221010</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

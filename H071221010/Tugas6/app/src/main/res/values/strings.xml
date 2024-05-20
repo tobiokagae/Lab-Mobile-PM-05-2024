@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas6</string>
+    <string name="retry">Retry</string>
+    <string name="load_more">Load More</string>
+    <string name="error">Please check your internet connection</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
